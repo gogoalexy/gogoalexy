@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+:green_book: I'm currently reading Real_World_Python.
 <!--
 **gogoalexy/gogoalexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
