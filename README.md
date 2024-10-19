@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-:green_book: I'm currently reading Real_World_Python.
+I'm currently open to work. Feel free to contact me if there is any chance we can cooperate!
 
-![gogoalexy's stats card](https://github-readme-stats.vercel.app/api?username=gogoalexy&show_icons=true&theme=vision-friendly-dark)
 <!--
 **gogoalexy/gogoalexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
